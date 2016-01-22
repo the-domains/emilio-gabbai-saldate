@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Emilio Gabbai-Saldate]]></title>
-        <description><![CDATA[Emilio Gabbai-Saldate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Fine Art of Emilio Gabbai-Saldate]]></title>
+        <description><![CDATA[Fine Art of Emilio Gabbai-Saldate]]></description>
+        <link>https://thegrid.ai/emilio-gabbai-saldate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 23:29:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 23:48:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emilio-gabbai-saldate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea1ad9cc-8318-468c-a263-733ad9f002eb.jpg">]]></description>
+            <link>https://thegrid.ai/emilio-gabbai-saldate/61f3cb51-82c1-4fdc-83a2-cff5b54313e2/index.html</link>
+            <guid isPermaLink="false">61f3cb51-82c1-4fdc-83a2-cff5b54313e2</guid>
+            <pubDate>Fri, 22 Jan 2016 23:48:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portrait of Dottie]]></title>
-            <description><![CDATA[<article><h1>Portrait of Dottie</h1><p>Sculpture of Dottie</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2516d41431dd776c59994762d9781cf201083f2a.jpg"></article>]]></description>
-            <link>undefinedportrait-of-dottie/index.html</link>
+            <description><![CDATA[<article><h1>Portrait of Dottie</h1><p>Sculpture of Dottie</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f2de90c7e4ec444c95629dabd3b19f45e3a7edb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/emilio-gabbai-saldate/portrait-of-dottie/index.html</link>
             <guid isPermaLink="false">a0c1c489-fccc-4bfb-9ec9-dac62bcc757f</guid>
             <pubDate>Fri, 22 Jan 2016 23:29:52 GMT</pubDate>
         </item>
