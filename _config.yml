@@ -1,29 +1,41 @@
-name: Emilio Gabbai-Saldate
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.92459
 title: Fine Art of Emilio Gabbai-Saldate
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8920742
+  brandStrength: 0.5
+  lightness: 0.801855
   brandColors:
     - '#060405'
     - '#733216'
     - '#ae7524'
     - '#f2b74d'
     - '#fff9a5'
-  brandStrength: 0.5
-  lightness: 0.7660611015744507
-  saturation: 0.0625
-  rhythmicContrast: 0.732995598576963
-purpose: []
+  rhythmicContrast: 0.7329956
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Emilio Gabbai-Saldate
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.92459
+layout_spectrum: 0
